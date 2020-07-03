@@ -1,2 +1,2 @@
-# BrightHack for OnePlus 7T
+# BrightHack OP7T
 A simple Magisk module for lowering the minimum brightness
