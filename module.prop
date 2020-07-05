@@ -1,0 +1,6 @@
+id=com.geofferey.brighthack
+name=OP7T Bright Hack
+version=v1.0.0
+versionCode=1
+author=geofferey @ xda-developers
+description=A simple module with the goal of lowering minimum brightness on Oneplus 7T. Can easily be adpapted to other devices by way of modifications to the scripts.
